@@ -1,0 +1,38 @@
+.na{
+   margin-right: 20px;
+   text-decoration: none; 
+}
+
+.image1{
+    width: 200px;
+    height: 100%;
+    margin-left: 10rem;
+}
+
+.container1{
+    display: flex;
+    margin-top: 10rem;
+    margin-left: 20rem;
+}
+
+.set1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.set2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.learnmore{
+    color: white;
+    background-color: black;
+    width: 7rem;
+}
+
+.set3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
